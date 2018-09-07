@@ -5,3 +5,6 @@ tags = []
 featured_image = "/images/alyse.jpg"
 description = ""
 +++
+
+{{< gallery dir="/images/gallery/" caption-position="none" />}}
+{{< load-photoswipe >}}

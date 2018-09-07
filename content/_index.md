@@ -9,3 +9,5 @@ description = ""
 ## "Taking picutres is savoring life intensely every hundredth of a second."   
    
 --Mark Riboud
+
+{{< figure src="/images/IMG_7798.jpg" title="" >}}
