@@ -1,0 +1,4 @@
+baseURL = "https://www.alyseolsenphotography.com"
+languageCode = "en-us"
+title = "Alyse Olsen Photography"
+theme = "gohugo-theme-ananke"
